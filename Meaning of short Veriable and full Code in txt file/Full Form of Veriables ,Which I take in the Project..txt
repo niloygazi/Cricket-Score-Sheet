@@ -1,0 +1,51 @@
+Full form of Veriables, Which I take in the project: 
+
+btsnm = Batsman Name.
+btsrn = Batsman run.
+btsbf = Batsman Ball Faced.
+btsfr = Batsman four.
+btssx = Batsman Six.
+
+obtsman = Opponent Batsman Name.
+obtsrn = Opponent Batsman run.
+obtsbf = Opponent Batsman Ball Faced.
+obtsfr = Opponent Batsman four.
+obtssx = Opponent Batsman Six.
+
+blsnm = Bowlers Name.
+blsovr = Bowlers Over.
+blsrg = Bowler Run Give.
+blswtk = Bowlers Wicket.
+blsmdnover = Bowlers Maiden Over.
+
+oblsnm = Opponent Bowlers Name.
+oblsovr = Opponent Bowlers Over.
+oblsrg = Opponent Bowler Run Give.
+oblswtk = Opponent Bowlers Wicket.
+oblsmdnover = Opponent Bowlers Maiden Over.
+
+Function Name:-
+
+no    Short Name       Full Name
+1.    gmdtls	       Game Details.
+2.    btsdtls	       Batsman Details.
+3.    obtsdtls         Opponent Batsman Details.
+4.    bldtls           Bowlers Details.
+5.    obldtls          Opponent Bowlers Details.
+6.    showdtl          Show Details.
+7.    showbtsdtl       Show Batsman Details.
+8.    showbldtls       Show Bowlers Details.
+9.    sumofrun         Sum of Run.
+10.   osumofrun        Opponent Sum of Run.
+11.   sumofwkt         Sum of Wicket.
+12.   osumofwkt        Opponent Sum Of Wicket.
+13.   highestrun       Highest Run.
+14.   ohighestrun      Opponent Highest Run.
+15.   avaragerunrate   Average Run Rate.
+16.   oavaragerunrate  Opponent Average Run Rate.
+17.   btsdtasrch       Batsman Data Search.
+18.   obtsdtasrch      Opponent Batsman Data Search.
+19.   blsdtasrch       Bowlers Data Search.
+20.   oblsdtasrch      Opponent Data Search.
+21.   srchplrdtls      Search Player Details.
+22.   
